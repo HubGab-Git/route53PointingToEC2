@@ -62,5 +62,5 @@ Resources:
   
 Outputs:
   WebsiteURL:
-    Description: URL for newly created LAMP stack
+    Description: URL for newly created EC2
     Value: !Ref DNSRecord
